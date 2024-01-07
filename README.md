@@ -22,5 +22,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kotora260&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-SNS
+### SNS
 [Instagram](https://www.instagram.com/melan_cozmo/)
