@@ -3,11 +3,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,git,github)](https://skillicons.dev)
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotora260&count_private=true&show_icons=true&hide_border=true&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kotora260&count_private=true&show_icons=true&hide_border=true&text_color=434d58&show_icons=true&theme=github_dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotora260&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kotora260&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kotora260&theme=darkhub&column=8&no-frame=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotora260&theme=darkhub&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 筑波大学宇宙観測研究室所属.北海道出身.
