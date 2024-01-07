@@ -5,6 +5,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,vscode,git,github)](https://skillicons.dev)
 
+---
+
 筑波大学宇宙観測研究室所属.北海道出身.
 
 ### すきなもの
