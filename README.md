@@ -18,5 +18,4 @@
 - ファッション
 
 ### Link
-[Instagram](https://www.instagram.com/melan_cozmo/)  
-[Qiita](https://qiita.com/melan_cozmo)
+[Instagram](https://www.instagram.com/melan_cozmo/)
