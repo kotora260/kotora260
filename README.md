@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,git,github)](https://skillicons.dev)
 
 ### About me
-筑波大学宇宙観測研究室所属.北海道出身.
+B4.北海道出身.
 
 ### Favorite
 - 天文学
