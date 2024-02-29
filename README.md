@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,md,vscode,git,github)](https://skillicons.dev)
 
 ### About me
-B4. 北海道出身.
+M1. 北海道出身.
 
 ### Favorite
 - 天文学
